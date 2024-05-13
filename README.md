@@ -1,24 +1,17 @@
 # Clima Agora
 ## Sobre o projeto
-Este repositório foi criado para colocar em prática os conhecimentos adquiridos nos cursos de HTML, CSS e Javascript da <b>Digital Innovation One</b> de um projeto <b>Frontend Web</b>.
+Este repositório foi criado para colocar em prática os conhecimentos adquiridos no curso de Informática para Internet, como a utilização de API e aprofundamento dos comandos em JavaScript.
 
-O objetivo do projeto foi recriar a interface do site da Netflix utilizando tecnologias simples como <b>HTML5, CSS3 e JavaScript</b>, além de englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins JQuery.
+O objetivo do projeto foi fazer uma página em que o usuário, ao escolher uma cidade existente, poderia conferir o clima da cidade, como a temperatura, por exemplo.
 
-# Layout do projeto
+## Layout do projeto
+![Prévia da Imagem]
 
-![Prévia da Imagem](previa.png)
-
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * HTML
 * CSS 
 * Javascript
-* Jquery
-* Fontawesome
-* Owl Carousel
-* Google Fonts 
 
 # Autor
-<b>Thallyta Macedo Carvalho de Castro</b>
-
-# Teste 2
+<b>Aline Kettylen Oliveira da Silva</b>
